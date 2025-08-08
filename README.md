@@ -20,9 +20,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rubanofficial/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubanofficial/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rubanofficial/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubanofficial/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
