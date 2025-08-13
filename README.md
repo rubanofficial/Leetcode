@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rubanofficial/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rubanofficial/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/rubanofficial/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rubanofficial/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
