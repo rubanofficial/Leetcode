@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rubanofficial/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/rubanofficial/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rubanofficial/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rubanofficial/Leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Hash Table
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/rubanofficial/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubanofficial/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rubanofficial/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubanofficial/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1954-replace-all-digits-with-characters](https://github.com/rubanofficial/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/rubanofficial/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rubanofficial/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
