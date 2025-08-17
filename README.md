@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1954-replace-all-digits-with-characters](https://github.com/rubanofficial/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/rubanofficial/Leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rubanofficial/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2243-check-if-all-as-appears-before-all-bs](https://github.com/rubanofficial/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 ## Sliding Window
 |  |
 | ------- |
