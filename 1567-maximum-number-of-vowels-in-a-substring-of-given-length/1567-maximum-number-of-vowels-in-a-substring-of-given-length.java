@@ -10,13 +10,12 @@ class Solution {
         }
         int max = c;
 
-        // sliding window
         for (int i = k; i < s.length(); i++) {
             if (vow.contains(s.charAt(i - k))) {
-                c--; // remove left char
+                c--; 
             }
             if (vow.contains(s.charAt(i))) {
-                c++; // add right char
+                c++; 
             }
             max = Math.max(max, c);
         }
