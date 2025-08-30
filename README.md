@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rubanofficial/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rubanofficial/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rubanofficial/Leetcode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rubanofficial/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rubanofficial/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/rubanofficial/Leetcode/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 ## Matrix
 |  |
