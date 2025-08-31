@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rubanofficial/Leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/rubanofficial/Leetcode/tree/master/2243-check-if-all-as-appears-before-all-bs) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rubanofficial/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/rubanofficial/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/rubanofficial/Leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/rubanofficial/Leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/rubanofficial/Leetcode/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/rubanofficial/Leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Binary Search
 |  |
 | ------- |
