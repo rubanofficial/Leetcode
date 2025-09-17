@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/rubanofficial/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rubanofficial/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/rubanofficial/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rubanofficial/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rubanofficial/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/rubanofficial/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1954-replace-all-digits-with-characters](https://github.com/rubanofficial/Leetcode/tree/master/1954-replace-all-digits-with-characters) |
@@ -163,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rubanofficial/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rubanofficial/Leetcode/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rubanofficial/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
