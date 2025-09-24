@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubanofficial/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/rubanofficial/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/rubanofficial/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rubanofficial/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rubanofficial/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -187,5 +188,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/rubanofficial/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/rubanofficial/Leetcode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
