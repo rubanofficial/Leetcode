@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/rubanofficial/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/rubanofficial/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/rubanofficial/Leetcode/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/rubanofficial/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/rubanofficial/Leetcode/tree/master/0940-fruit-into-baskets) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rubanofficial/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/rubanofficial/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/rubanofficial/Leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/rubanofficial/Leetcode/tree/master/0078-subsets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
