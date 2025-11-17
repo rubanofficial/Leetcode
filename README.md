@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rubanofficial/Leetcode/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/rubanofficial/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/rubanofficial/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/rubanofficial/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rubanofficial/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/rubanofficial/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/rubanofficial/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0792-binary-search](https://github.com/rubanofficial/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3790-fruits-into-baskets-ii](https://github.com/rubanofficial/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
