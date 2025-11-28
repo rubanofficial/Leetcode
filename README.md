@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rubanofficial/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/rubanofficial/Leetcode/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/rubanofficial/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Bit Manipulation
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/rubanofficial/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
@@ -224,5 +226,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/rubanofficial/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
