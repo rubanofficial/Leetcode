@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/rubanofficial/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/rubanofficial/Leetcode/tree/master/0231-power-of-two) |
 | [1236-n-th-tribonacci-number](https://github.com/rubanofficial/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/rubanofficial/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/rubanofficial/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
