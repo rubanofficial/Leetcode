@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rubanofficial/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0061-rotate-list](https://github.com/rubanofficial/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/rubanofficial/Leetcode/tree/master/0075-sort-colors) |
+| [0086-partition-list](https://github.com/rubanofficial/Leetcode/tree/master/0086-partition-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rubanofficial/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rubanofficial/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/rubanofficial/Leetcode/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/rubanofficial/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rubanofficial/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rubanofficial/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0206-reverse-linked-list) |
