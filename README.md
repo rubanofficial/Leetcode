@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rubanofficial/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rubanofficial/Leetcode/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rubanofficial/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rubanofficial/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rubanofficial/Leetcode/tree/master/0229-majority-element-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rubanofficial/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/rubanofficial/Leetcode/tree/master/0012-integer-to-roman) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rubanofficial/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/rubanofficial/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/rubanofficial/Leetcode/tree/master/0541-reverse-string-ii) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/rubanofficial/Leetcode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/rubanofficial/Leetcode/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/rubanofficial/Leetcode/tree/master/0062-unique-paths) |
 | [0231-power-of-two](https://github.com/rubanofficial/Leetcode/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
