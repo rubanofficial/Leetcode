@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rubanofficial/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/rubanofficial/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rubanofficial/Leetcode/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/rubanofficial/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rubanofficial/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/rubanofficial/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/rubanofficial/Leetcode/tree/master/0229-majority-element-ii) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/rubanofficial/Leetcode/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/rubanofficial/Leetcode/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/rubanofficial/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/rubanofficial/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/rubanofficial/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
