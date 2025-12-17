@@ -3,10 +3,12 @@ class Solution {
         int n = triangle.size();
         int[][] dp = new int[n][n];
 
+        // Fill the last row first
         for (int j = 0; j < n; j++) {
             dp[n - 1][j] = triangle.get(n - 1).get(j);
         }
 
+        // Build from second last row upwards
         for (int i = n - 2; i >= 0; i--) {
             for (int j = 0; j <= i; j++) {
                 dp[i][j] = triangle.get(i).get(j)
