@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rubanofficial/Leetcode/tree/master/0792-binary-search) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/rubanofficial/Leetcode/tree/master/0940-fruit-into-baskets) |
+| [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/rubanofficial/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rubanofficial/Leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/rubanofficial/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/rubanofficial/Leetcode/tree/master/0200-number-of-islands) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/rubanofficial/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/rubanofficial/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/rubanofficial/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/rubanofficial/Leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
