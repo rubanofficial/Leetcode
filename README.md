@@ -306,4 +306,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0181-employees-earning-more-than-their-managers](https://github.com/rubanofficial/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/rubanofficial/Leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
