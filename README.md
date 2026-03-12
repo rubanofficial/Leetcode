@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/rubanofficial/Leetcode/tree/master/0078-subsets) |
 | [0120-triangle](https://github.com/rubanofficial/Leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/rubanofficial/Leetcode/tree/master/0139-word-break) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rubanofficial/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rubanofficial/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/rubanofficial/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/rubanofficial/Leetcode/tree/master/0169-majority-element) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rubanofficial/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rubanofficial/Leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/rubanofficial/Leetcode/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rubanofficial/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/rubanofficial/Leetcode/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/rubanofficial/Leetcode/tree/master/1236-n-th-tribonacci-number) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/rubanofficial/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rubanofficial/Leetcode/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/rubanofficial/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
