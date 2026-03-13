@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rubanofficial/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/rubanofficial/Leetcode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rubanofficial/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/rubanofficial/Leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/rubanofficial/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rubanofficial/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/rubanofficial/Leetcode/tree/master/0739-daily-temperatures) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/rubanofficial/Leetcode/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/rubanofficial/Leetcode/tree/master/0684-redundant-connection) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/rubanofficial/Leetcode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
