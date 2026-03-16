@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/rubanofficial/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/rubanofficial/Leetcode/tree/master/0792-binary-search) |
 | [0848-shifting-letters](https://github.com/rubanofficial/Leetcode/tree/master/0848-shifting-letters) |
+| [0860-lemonade-change](https://github.com/rubanofficial/Leetcode/tree/master/0860-lemonade-change) |
 | [0861-flipping-an-image](https://github.com/rubanofficial/Leetcode/tree/master/0861-flipping-an-image) |
 | [0940-fruit-into-baskets](https://github.com/rubanofficial/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/rubanofficial/Leetcode/tree/master/0994-rotting-oranges) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/rubanofficial/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/rubanofficial/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/rubanofficial/Leetcode/tree/master/0860-lemonade-change) |
 ## Segment Tree
 |  |
 | ------- |
